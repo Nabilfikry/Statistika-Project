@@ -1,0 +1,16 @@
+# --- PENGOLAHAN DATA ---
+pandas
+numpy
+openpyxl
+
+# --- VISUALISASI DATA (BAB IV: Deskriptif) ---
+matplotlib
+seaborn
+
+# --- ANALISIS STATISTIK (BAB IV: Hipotesis, ANOVA, Regresi) ---
+scipy
+statsmodels
+
+# --- JIKA MENGGUNAKAN FORMAT NOTEBOOK (.ipynb) ---
+jupyter
+ipykernel
