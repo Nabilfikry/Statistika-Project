@@ -1,0 +1,15 @@
+  Multiple Comparison of Means - Tukey HSD, FWER=0.05   
+========================================================
+ group1   group2  meandiff p-adj   lower   upper  reject
+--------------------------------------------------------
+ at_home   health   2.0181 0.0015  0.5613  3.4748   True
+ at_home    other   0.6261 0.3402 -0.2947  1.5469  False
+ at_home services   1.1026 0.0349  0.0494  2.1558   True
+ at_home  teacher   2.0944 0.0001  0.8294  3.3595   True
+  health    other   -1.392 0.0425 -2.7546 -0.0293   True
+  health services  -0.9154 0.4219 -2.3708  0.5399  False
+  health  teacher   0.0764 0.9999 -1.5389  1.6917  False
+   other services   0.4765 0.6156 -0.4421  1.3951  False
+   other  teacher   1.4683 0.0049  0.3129  2.6238   True
+services  teacher   0.9918 0.2014 -0.2716  2.2553  False
+--------------------------------------------------------
